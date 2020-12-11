@@ -27,6 +27,13 @@ div.bigspacer
     line-height: 0;
 }
 
+div.littlespacer
+{
+    font-size: 0;
+    height: 5px;
+    line-height: 0;
+}
+
 p.dir
 {
 
