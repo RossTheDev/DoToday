@@ -7,7 +7,7 @@ I will eventually create a wiki page on how to setup the full workflow environme
 
 
 ## Status + Roadmap
-Version: 0.04
+Version: 0.05
 
 Features to come:
 - Desktop and website app
