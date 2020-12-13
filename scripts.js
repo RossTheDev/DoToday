@@ -1,5 +1,5 @@
 //shorthand function
-function docWrite(variable) {
+function Write(variable) {
     document.write(variable);
 }
 
