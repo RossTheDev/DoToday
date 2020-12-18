@@ -13,7 +13,7 @@ html {
 }
 
 
-body {background-color: rgb(255,255,255);}
+body {background-color: rgb(43,62,80);}
 
 div.spacer
 {
@@ -26,13 +26,6 @@ div.bigspacer
 {
     font-size: 0;
     height: 80px;
-    line-height: 0;
-}
-
-div.medspacer
-{
-    font-size: 0;
-    height: 25px;
     line-height: 0;
 }
 
@@ -53,20 +46,10 @@ color: black
 
 p.medium
 {
-color: black;
-font-size: 35px;
-}
 
-h1.medium
-{
-color: black;
-font-size: 34px;
-}
+font-size: 20px;
+color: white
 
-h1.large
-{
-color: black;
-font-size: 55px;
 }
 
 .container {
@@ -82,11 +65,11 @@ font-size: 55px;
   transform: translate(-50%, -50%);
 }
 p {
-  color: black;
+  color: white;
 }
 h1 {
-  color: black;
+  color: white;
 }
 h2 {
-  color: black;
+  color: white;
 }

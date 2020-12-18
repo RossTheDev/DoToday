@@ -7,10 +7,10 @@ I will eventually create a wiki page on how to setup the full workflow environme
 
 
 ## Status + Roadmap
-Version: 0.08
+Version: 0.09
 
 Features to come:
-- Desktop and website app
+- Wiki on how to launch, use, and maintain the environment.
 - Workflow features and other assorted tools
 
 
