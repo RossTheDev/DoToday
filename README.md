@@ -7,7 +7,7 @@ I will eventually create a wiki page on how to setup the full workflow environme
 
 
 ## Status + Roadmap
-Version: 0.09
+Version: 0.10
 
 Features to come:
 - Wiki on how to launch, use, and maintain the environment.
