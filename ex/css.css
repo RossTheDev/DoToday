@@ -13,7 +13,7 @@ html {
 }
 
 
-body {background-color: rgb(255,255,255);}
+body {background-color: rgb(43,62,80);}
 
 div.spacer
 {
@@ -46,14 +46,10 @@ color: black
 
 p.medium
 {
-color: black;
-font-size: 35px;
-}
 
-h1.medium
-{
-color: black;
-font-size: 34px;
+font-size: 20px;
+color: white
+
 }
 
 .container {
@@ -69,11 +65,11 @@ font-size: 34px;
   transform: translate(-50%, -50%);
 }
 p {
-  color: black;
+  color: white;
 }
 h1 {
-  color: black;
+  color: white;
 }
 h2 {
-  color: black;
+  color: white;
 }
