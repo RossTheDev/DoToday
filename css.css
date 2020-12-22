@@ -56,6 +56,11 @@ p.medium
 color: black;
 font-size: 35px;
 }
+p.small
+{
+color: black;
+font-size: 30px;
+}
 
 h1.medium
 {
