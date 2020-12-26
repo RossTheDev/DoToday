@@ -8,3 +8,6 @@ var jdname = "John Doe"
 
 //Thomas Jefferson
 var tjname = "Thomas Jefferson"
+
+//site wide bulletin
+var bulletin = "Company Bulletin: all hot dogs are free!!!"
