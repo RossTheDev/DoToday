@@ -7,7 +7,7 @@ Created this as a basic work flow management tool. Push tasks to your employees,
 
 
 ## Status + Roadmap
-Version: 0.12 (Mostly completed build. Only small new polishes and minor features to come ahead.)
+Version: 0.13 (Mostly completed build. Only small new polishes and minor features to come ahead.)
 
 Features:
 - Workflow features and other assorted tools
