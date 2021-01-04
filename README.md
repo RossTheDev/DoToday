@@ -12,6 +12,10 @@ Version: 0.12 (Mostly completed build. Only small new polishes and minor feature
 Features to come:
 - Workflow features and other assorted tools
 
+## Installation
+Please follow the wiki [here.](https://github.com/RossTheDev/DoToday/wiki)
+
+
 
 ## Socials:
 - [My Twitter](https://twitter.com/TechByRoss)
