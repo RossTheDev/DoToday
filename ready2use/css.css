@@ -1,9 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
-:root {
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
 
-  --font-family-sans-serif: Lato, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
 
 html {
   font-family: sans-serif;
@@ -13,7 +10,23 @@ html {
 }
 
 
-body {background-color: rgb(43,62,80);}
+body {background-color: rgb(255,255,255);}
+body {
+  padding-top: 3.25rem; }
+  body:before {
+    content: ' ';
+    background-image: url(src/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.05; }
 
 div.spacer
 {
@@ -32,7 +45,7 @@ div.bigspacer
 div.littlespacer
 {
     font-size: 0;
-    height: 5px;
+    height: 3px;
     line-height: 0;
 }
 
@@ -48,7 +61,7 @@ p.medium
 {
 
 font-size: 20px;
-color: white
+color: black
 
 }
 
@@ -70,18 +83,18 @@ color: white
     bottom: 20px;
     right: 20px;
     background-color: black;
-    color: white;
+    color: black;
     padding-left: 20px;
     padding-right: 20px;
 }
 p {
-  color: white;
+  color: black;
 }
 h1 {
-  color: white;
+  color: black;
 }
 h2 {
-  color: white;
+  color: black;
 }
 
 
