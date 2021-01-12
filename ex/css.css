@@ -42,6 +42,13 @@ div.bigspacer
     line-height: 0;
 }
 
+div.medspacer
+{
+    font-size: 0;
+    height: 40px;
+    line-height: 0;
+}
+
 div.littlespacer
 {
     font-size: 0;
